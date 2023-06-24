@@ -30,7 +30,7 @@ hymn.verses.seer.divinity.meter
 29.5.gautamo vāmadevaḥ.indraḥ.triṣṭup
 30.24.gautamo vāmadevaḥ.(1-8,12-24)indraḥ,(9-11)indroṣasau.(1-7,9-23)gāyatrī,(8,24)anuṣṭup
 31.15.gautamo vāmadevaḥ.indraḥ.gāyatrī
-32.24.gautamo vāmadevaḥ.(1-22)indraḥ,(23-25)indrasyāśvau.gāyatrī
+32.24.gautamo vāmadevaḥ.(1-22)indraḥ,(23-24)indrasyāśvau.gāyatrī
 33.11.gautamo vāmadevaḥ.ṛbhavaḥ.triṣṭup
 34.11.gautamo vāmadevaḥ.ṛbhavaḥ.triṣṭup
 35.9.gautamo vāmadevaḥ.ṛbhavaḥ.triṣṭup
