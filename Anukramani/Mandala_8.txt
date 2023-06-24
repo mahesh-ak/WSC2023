@@ -1,5 +1,5 @@
 hymn.verses.seer.divinity.meter
-1.34.(1-2)ghauraḥ pragāthaḥ,(3-26)kāṇvau medhātithimedhyātithī,(30-33)plāyoṅgirāsaṅga,(34)āṅgirasī śaśvatī.(1-29)indraḥ,(30-34)asaṅgaḥ.(1-4)pragāthaḥ,(5-32)bṛhatī,(33-34)triṣṭup
+1.34.(1-2)ghauraḥ pragāthaḥ,(3-29)kāṇvau medhātithimedhyātithī,(30-33)plāyoṅgirāsaṅga,(34)āṅgirasī śaśvatī.(1-29)indraḥ,(30-34)asaṅgaḥ.(1-4)pragāthaḥ,(5-32)bṛhatī,(33-34)triṣṭup
 2.42.kāṇvo medhātithiḥ.(1-40)indraḥ,(41-42)dānastutiḥ.(1-27,29-42)gāyatrī,(28)anuṣṭup
 3.24.kāṇvo medhyātithiḥ.(1-20)indraḥ,(21-24)dānastutiḥ.(1-20)pragāthaḥ,(21)anuṣṭup,(22-23)gāyatrī,(24)bṛhatī
 4.21.kāṇvo devātithiḥ.(1-14)indraḥ,(15-18)pūṣā,(19-21)dānastutiḥ.(1-20)pragāthaḥ,(21)uṣṇik
