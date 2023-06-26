@@ -1,5 +1,5 @@
 hymn.verses.seer.divinity.meter
-1.34.(1-2)ghauraḥ pragāthaḥ,(3-26)kāṇvau medhātithimedhyātithī,(30-33)plāyoṅgirāsaṅga,(34)āṅgirasī śaśvatī.(1-29)indraḥ,(30-34)asaṅgaḥ.(1-4)pragāthaḥ,(5-32)bṛhatī,(33-34)triṣṭup
+1.34.(1-2)ghauraḥ pragāthaḥ,(3-29)kāṇvau medhātithimedhyātithī,(30-33)plāyoṅgirāsaṅga,(34)āṅgirasī śaśvatī.(1-29)indraḥ,(30-34)asaṅgaḥ.(1-4)pragāthaḥ,(5-32)bṛhatī,(33-34)triṣṭup
 2.42.kāṇvo medhātithiḥ.(1-40)indraḥ,(41-42)dānastutiḥ.(1-27,29-42)gāyatrī,(28)anuṣṭup
 3.24.kāṇvo medhyātithiḥ.(1-20)indraḥ,(21-24)dānastutiḥ.(1-20)pragāthaḥ,(21)anuṣṭup,(22-23)gāyatrī,(24)bṛhatī
 4.21.kāṇvo devātithiḥ.(1-14)indraḥ,(15-18)pūṣā,(19-21)dānastutiḥ.(1-20)pragāthaḥ,(21)uṣṇik
@@ -29,10 +29,10 @@ hymn.verses.seer.divinity.meter
 28.5.vaivasvasto manuḥ.viśvedevāḥ.(1-3,5)gāyatrī,(4)uṣṇik
 29.10.vaivasvasto manuḥ.viśvedevāḥ.dvipadā virāṭ
 30.4.vaivasvasto manuḥ.viśvedevāḥ.(1)gāyatrī,(2)uṣṇik,(3)bṛhatī,(4)anuṣṭup
-31.18..(1-4)yajñayajamānau,(5-9)dampatī,(10-18)dampatyāśipaḥ.(1-8,10-13)gāyatrī,(9,14)anuṣṭup,(15-18)paṅktiḥ
+31.18.(1-4)yajñayajamānau,(5-9)dampatī,(10-18)dampatyāśipaḥ.(1-8,10-13)gāyatrī,(9,14)anuṣṭup,(15-18)paṅktiḥ
 32.30.kāṇvo medhātithiḥ.indraḥ.gāyatrī
 33.19.kāṇvo medhyātithiḥ.indraḥ.(1-15) bṛhatī,(13-18)gāyatrī,(19)anuṣṭup
-34.18.(1-25)kāṇvo nīpātithiḥ,(16-18)āṅgirasāḥ sahasraṁ vasurociṣaḥ.indraḥ.(1-15)anuṣṭup,(16-18)gāyatrī
+34.18.(1-15)kāṇvo nīpātithiḥ,(16-18)āṅgirasāḥ sahasraṁ vasurociṣaḥ.indraḥ.(1-15)anuṣṭup,(16-18)gāyatrī
 35.24.ātreyaḥ śyāvāśvaḥ.aśvinau.(1-21)jyotiḥ,(22,24)paṅktiḥ,(23)mahābṛhatī
 36.7.ātreyaḥ śyāvāśvaḥ.indraḥ.(1-6)śakvarī,(7)mahāpaṅktiḥ
 37.7.ātreyaḥ śyāvāśvaḥ.indraḥ.(1)atijagatī,(2-7)mahāpaṅktiḥ
